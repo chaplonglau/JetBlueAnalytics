@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">JetBlueDataAnalytics</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="airports">
+        <item>ABQ</item>
+        <item>ACK</item>
+        <item>ANC</item>
+        <item>AUA</item>
+        <item>AUS</item>
+        <item>AZS</item>
+        <item>BDA</item>
+        <item>BDL</item>
+        <item>BGI</item>
+        <item>BOG</item>
+        <item>BOS</item>
+        <item>BQN</item>
+        <item>BTV</item>
+        <item>BUF</item>
+        <item>BUR</item>
+        <item>BWI</item>
+        <item>CHS</item>
+        <item>CLE</item>
+        <item>CLT</item>
+        <item>CTG</item>
+        <item>CUN</item>
+        <item>CUR</item>
+        <item>DCA</item>
+        <item>DEN</item>
+        <item>DFW</item>
+        <item>DTW</item>
+        <item>EWR</item>
+        <item>FLL</item>
+        <item>GCM</item>
+        <item>GND</item>
+        <item>HOU</item>
+        <item>HPN</item>
+        <item>HYA</item>
+        <item>IAD</item>
+        <item>JAX</item>
+        <item>JFK</item>
+        <item>KIN</item>
+        <item>LAS</item>
+        <item>LAX</item>
+        <item>LGA</item>
+        <item>LGB</item>
+        <item>LIM</item>
+        <item>LIR</item>
+        <item>LRM</item>
+        <item>MBJ</item>
+        <item>MCO</item>
+        <item>MDE</item>
+        <item>MSY</item>
+        <item>MVY</item>
+        <item>NAS</item>
+        <item>OAK</item>
+        <item>ORD</item>
+        <item>ORH</item>
+        <item>PAP</item>
+        <item>PBI</item>
+        <item>PDX</item>
+        <item>PHL</item>
+        <item>PHX</item>
+        <item>PIT</item>
+        <item>PLS</item>
+        <item>POP</item>
+        <item>POS</item>
+        <item>PSE</item>
+        <item>PUJ</item>
+        <item>PVD</item>
+        <item>PWM</item>
+        <item>RDU</item>
+        <item>RIC</item>
+        <item>RNO</item>
+        <item>ROC</item>
+        <item>RSW</item>
+        <item>SAV</item>
+        <item>SDQ</item>
+        <item>SEA</item>
+        <item>SFO</item>
+        <item>SJC</item>
+        <item>SJO</item>
+        <item>SJU</item>
+        <item>SLC</item>
+        <item>SMF</item>
+        <item>SRQ</item>
+        <item>STI</item>
+        <item>STT</item>
+        <item>STX</item>
+        <item>SWF</item>
+        <item>SXM</item>
+        <item>SYR</item>
+        <item>TPA</item>
+        <item>UVF</item>
+
+    </string-array>
+</resources>

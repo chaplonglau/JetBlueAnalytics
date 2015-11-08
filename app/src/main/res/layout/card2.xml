@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+
+    >
+    <!-- android:background="#e0e0e0" -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="#125329">
+        <TextView
+            android:id="@+id/dest_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="ORL to JFK"
+            android:textSize="30dp"
+            android:textColor="#fff"
+
+
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dest_text"
+            android:background="#fff"
+            android:layout_margin="10dp"
+            >
+            <TextView
+                android:id="@+id/dollar_fare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="$999"
+                android:textSize="20dp"
+                android:textColor="#000"
+
+
+                />
+
+            <TextView
+                android:layout_below="@id/dollar_fare"
+                android:id="@+id/dollar_tax"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="$999"
+                android:textSize="20dp"
+                android:textColor="#000"
+
+
+                />
+
+            <TextView
+                android:layout_below="@id/dollar_tax"
+                android:id="@+id/points_fare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="$999"
+                android:textSize="20dp"
+                android:textColor="#000"
+
+
+                />
+
+            <TextView
+                android:layout_below="@id/points_fare"
+                android:id="@+id/points_tax"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="$999"
+                android:textSize="20dp"
+                android:textColor="#000"
+
+
+                />
+
+            <TextView
+                android:layout_below="@id/points_tax"
+                android:id="@+id/is_domestic_route"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="$999"
+                android:textSize="10dp"
+                android:textColor="#000"
+
+
+                />
+
+            <TextView
+                android:layout_below="@id/is_domestic_route"
+                android:id="@+id/is_private_fare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="$999"
+                android:textSize="10dp"
+                android:textColor="#000"
+
+
+                />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+</RelativeLayout>
